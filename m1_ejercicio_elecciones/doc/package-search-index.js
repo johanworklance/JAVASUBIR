@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"uniandes.cupi2.elecciones.interfaz"},{"l":"uniandes.cupi2.elecciones.mundo"},{"l":"uniandes.cupi2.elecciones.test"}]
